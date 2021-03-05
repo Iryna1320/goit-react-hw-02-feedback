@@ -1,0 +1,15 @@
+.statistics_title{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    text-align: left;
+}
+
+.statistics_list{
+    text-align: left;
+}
+
+.statistics__item{
+    margin-left: 20px;
+    margin-top: 10px;
+}
